@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Class task\bin\Debug\netcoreapp3.1\Class task.exe
+C:\Users\user\source\repos\Class task\bin\Debug\netcoreapp3.1\Class task.deps.json
+C:\Users\user\source\repos\Class task\bin\Debug\netcoreapp3.1\Class task.runtimeconfig.json
+C:\Users\user\source\repos\Class task\bin\Debug\netcoreapp3.1\Class task.runtimeconfig.dev.json
+C:\Users\user\source\repos\Class task\bin\Debug\netcoreapp3.1\Class task.dll
+C:\Users\user\source\repos\Class task\bin\Debug\netcoreapp3.1\Class task.pdb
+C:\Users\user\source\repos\Class task\obj\Debug\netcoreapp3.1\Class task.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Class task\obj\Debug\netcoreapp3.1\Class task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Class task\obj\Debug\netcoreapp3.1\Class task.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Class task\obj\Debug\netcoreapp3.1\Class task.AssemblyInfo.cs
+C:\Users\user\source\repos\Class task\obj\Debug\netcoreapp3.1\Class task.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Class task\obj\Debug\netcoreapp3.1\Class task.dll
+C:\Users\user\source\repos\Class task\obj\Debug\netcoreapp3.1\Class task.pdb
+C:\Users\user\source\repos\Class task\obj\Debug\netcoreapp3.1\Class task.genruntimeconfig.cache
+C:\Users\user\source\repos\Class task\obj\Debug\netcoreapp3.1\Class_task.Properties.Resources.resources
+C:\Users\user\source\repos\Class task\obj\Debug\netcoreapp3.1\Class task.csproj.GenerateResource.cache
